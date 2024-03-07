@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706734551 source:c:\users\ludmila poznya\desktop\ayed\ejercicios algoritmos\ej 6 archivos\ej 2 archivos\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

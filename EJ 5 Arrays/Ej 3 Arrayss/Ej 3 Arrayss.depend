@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708099700 source:c:\users\ludmila poznya\desktop\ayed\ejercicios algoritmos\ej 5 arrays\ej 3 arrayss\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+
